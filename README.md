@@ -5,7 +5,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=farha12345678&label=Profile%20views&color=0e75b6&style=flat" alt="farha12345678" /> </p>
 
-- 📫 How to reach me **www.linkedin.com/in/sabikun-nahar-farha-179412307**
+<h1 align="left">👨‍💻 About Me</h1>
+<p align="left">👋 Hey there! I'm Sabikun Nahar Farha, a dedicated frontend web developer passionate about creating seamless and delightful user experiences. I thrive on turning complex designs into intuitive and responsive interfaces that users love to engage with.I'm always eager to collaborate on innovative projects and discuss new ideas in web development. </p>
 
 <h3 align="left"> 📫 Connect with me:</h3>
 <p align="center">
