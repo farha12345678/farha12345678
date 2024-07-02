@@ -3,8 +3,6 @@
 
 ![logo](https://github.com/farha12345678/farha12345678/blob/main/pexels-pixabay-270360.jpg)
 
-<h1 align="center">Hi 👋, I'm Sabikun Nahar Farha</h1>
-<h3 align="center">Passionate about Building Fast, Scalable, and Beautiful Web Applications</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=farha12345678&label=Profile%20views&color=0e75b6&style=flat" alt="farha12345678" /> </p>
 
